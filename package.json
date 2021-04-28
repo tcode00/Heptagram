@@ -20,7 +20,7 @@
   "dependencies": {
     "discord.js": "^12.5.3",
     "dotenv": "^8.2.0",
-    "enmap": "^5.8.4",
+    "enmap": "^5.8.5",
     "fs": "*",
     "mongoose": "^5.12.3",
     "ms": "^2.1.3",
