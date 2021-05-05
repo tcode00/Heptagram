@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Heptagram-Bot/Heptagram#readme",
   "dependencies": {
     "discord.js": "^12.5.3",
-    "dotenv": "^8.2.0",
+    "dotenv": "^8.5.1",
     "enmap": "^5.8.4",
     "fs": "*",
     "mongoose": "^5.12.3",
